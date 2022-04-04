@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\StaticTask\StaticTask\obj\Debug\netcoreapp3.1\StaticTask.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\StaticTask\StaticTask\obj\Debug\netcoreapp3.1\StaticTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\StaticTask\StaticTask\obj\Debug\netcoreapp3.1\StaticTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StaticTask\StaticTask\obj\Debug\netcoreapp3.1\StaticTask.AssemblyInfo.cs
+C:\Users\User\source\repos\StaticTask\StaticTask\obj\Debug\netcoreapp3.1\StaticTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StaticTask\StaticTask\bin\Debug\netcoreapp3.1\StaticTask.exe
+C:\Users\User\source\repos\StaticTask\StaticTask\bin\Debug\netcoreapp3.1\StaticTask.deps.json
+C:\Users\User\source\repos\StaticTask\StaticTask\bin\Debug\netcoreapp3.1\StaticTask.runtimeconfig.json
+C:\Users\User\source\repos\StaticTask\StaticTask\bin\Debug\netcoreapp3.1\StaticTask.runtimeconfig.dev.json
+C:\Users\User\source\repos\StaticTask\StaticTask\bin\Debug\netcoreapp3.1\StaticTask.dll
+C:\Users\User\source\repos\StaticTask\StaticTask\bin\Debug\netcoreapp3.1\StaticTask.pdb
+C:\Users\User\source\repos\StaticTask\StaticTask\obj\Debug\netcoreapp3.1\StaticTask.dll
+C:\Users\User\source\repos\StaticTask\StaticTask\obj\Debug\netcoreapp3.1\StaticTask.pdb
+C:\Users\User\source\repos\StaticTask\StaticTask\obj\Debug\netcoreapp3.1\StaticTask.genruntimeconfig.cache

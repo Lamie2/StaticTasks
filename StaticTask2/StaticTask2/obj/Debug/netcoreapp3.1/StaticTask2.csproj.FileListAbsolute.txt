@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\StaticTask2\StaticTask2\bin\Debug\netcoreapp3.1\StaticTask2.exe
+C:\Users\User\source\repos\StaticTask2\StaticTask2\bin\Debug\netcoreapp3.1\StaticTask2.deps.json
+C:\Users\User\source\repos\StaticTask2\StaticTask2\bin\Debug\netcoreapp3.1\StaticTask2.runtimeconfig.json
+C:\Users\User\source\repos\StaticTask2\StaticTask2\bin\Debug\netcoreapp3.1\StaticTask2.runtimeconfig.dev.json
+C:\Users\User\source\repos\StaticTask2\StaticTask2\bin\Debug\netcoreapp3.1\StaticTask2.dll
+C:\Users\User\source\repos\StaticTask2\StaticTask2\bin\Debug\netcoreapp3.1\StaticTask2.pdb
+C:\Users\User\source\repos\StaticTask2\StaticTask2\obj\Debug\netcoreapp3.1\StaticTask2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\StaticTask2\StaticTask2\obj\Debug\netcoreapp3.1\StaticTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\StaticTask2\StaticTask2\obj\Debug\netcoreapp3.1\StaticTask2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StaticTask2\StaticTask2\obj\Debug\netcoreapp3.1\StaticTask2.AssemblyInfo.cs
+C:\Users\User\source\repos\StaticTask2\StaticTask2\obj\Debug\netcoreapp3.1\StaticTask2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StaticTask2\StaticTask2\obj\Debug\netcoreapp3.1\StaticTask2.dll
+C:\Users\User\source\repos\StaticTask2\StaticTask2\obj\Debug\netcoreapp3.1\StaticTask2.pdb
+C:\Users\User\source\repos\StaticTask2\StaticTask2\obj\Debug\netcoreapp3.1\StaticTask2.genruntimeconfig.cache
